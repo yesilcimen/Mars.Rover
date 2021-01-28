@@ -16,6 +16,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mars.Services", "..\Mars.Se
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mars.Model", "..\Mars.Model\Mars.Model.csproj", "{B8C770D4-2368-40A4-9D13-A6F77F398B3C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{1F75A20F-27A0-4F92-8D8F-636CB6DEDC6B}"
+	ProjectSection(SolutionItems) = preProject
+		..\Images\ScreenMap.PNG = ..\Images\ScreenMap.PNG
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
